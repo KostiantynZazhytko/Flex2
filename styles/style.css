@@ -44,6 +44,10 @@ body {
     font-size: 13px;
 }
 
+.date3 {
+    opacity: 0;
+}
+
 .content1{  
     margin: 25px 45px;
 }
